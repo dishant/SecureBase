@@ -1,9 +1,6 @@
 SecureBase
 ==========
 
-SecureBase
-==========
-
 SecureBase provides client side encryption on top of Apache HBase. It's API is exactly same as that of HBase except at
 the time of creation of table user specifies whether or not the table should be encrypted. 
 
