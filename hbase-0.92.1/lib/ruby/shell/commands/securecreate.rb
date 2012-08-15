@@ -23,18 +23,18 @@ module Shell
     class Securecreate < Command
       def help
         return <<-EOF
-Create table; pass table name, a dictionary of specifications per
+Create encrypted table; pass table name, a dictionary of specifications per
 column family, and optionally a dictionary of table configuration.
 Dictionaries are described below in the GENERAL NOTES section.
 Examples:
 
-  hbase> create 't1', {NAME => 'f1', VERSIONS => 5}
-  hbase> create 't1', {NAME => 'f1'}, {NAME => 'f2'}, {NAME => 'f3'}
+  hbase> securecreate 't1', {NAME => 'f1', VERSIONS => 5}
+  hbase> securecreate 't1', {NAME => 'f1'}, {NAME => 'f2'}, {NAME => 'f3'}
   hbase> # The above in shorthand would be the following:
-  hbase> create 't1', 'f1', 'f2', 'f3'
-  hbase> create 't1', {NAME => 'f1', VERSIONS => 1, TTL => 2592000, BLOCKCACHE => true}
-  hbase> create 't1', 'f1', {SPLITS => ['10', '20', '30', '40']}
-  hbase> create 't1', 'f1', {SPLITS_FILE => 'splits.txt'}
+  hbase> securecreate 't1', 'f1', 'f2', 'f3'
+  hbase> securecreate 't1', {NAME => 'f1', VERSIONS => 1, TTL => 2592000, BLOCKCACHE => true}
+  hbase> securecreate 't1', 'f1', {SPLITS => ['10', '20', '30', '40']}
+  hbase> securecreate 't1', 'f1', {SPLITS_FILE => 'splits.txt'}
 EOF
       end
 
