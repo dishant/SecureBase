@@ -1,5 +1,6 @@
 INSTALL: STANDALONE MODE
 ________________________________
+Required OS: Ubuntu Linux
 
 1. Modify /etc/hosts 
 	Remove the entry 127.0.1.1 since HBase expect the loopback id to be 127.0.0.1
@@ -14,7 +15,7 @@ USAGE
 __________
 
 To start hbase server, go to bin folder and type ./start-hbase.sh
-start shell by tying ./hbase shell
+start shell by typing ./hbase shell
 
 To create secureTables use command "securecreate" instead of create. You can go to hbase.root.dir to see the tables you created. You can check that secureTables are storing values in encrypted format. KeyManager
 
