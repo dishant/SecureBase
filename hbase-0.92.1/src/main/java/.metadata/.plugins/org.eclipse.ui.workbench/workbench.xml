@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="12" version="2.0">
+<workbenchAdvisor/>
+<window height="768" maximized="true" width="1024" x="66" y="24">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="132" y="30"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="120" y="30"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="76" y="30"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="124" y="30"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="184" y="30"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1343231747165" focus="true" label="Workspace - Resource">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ValueFilter.java" partName="ValueFilter.java" path="/usr/local/hbase-0.92.1/src/main/java/org/apache/hadoop/hbase/filter/ValueFilter.java" title="ValueFilter.java" tooltip="org/apache/hadoop/hbase/filter/ValueFilter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/org/apache/hadoop/hbase/filter/ValueFilter.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2580" selectionTopPixel="325"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HTable.java" partName="HTable.java" path="/usr/local/hbase-0.92.1/src/main/java/org/apache/hadoop/hbase/client/HTable.java" title="HTable.java" tooltip="org/apache/hadoop/hbase/client/HTable.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/org/apache/hadoop/hbase/client/HTable.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="53816" selectionTopPixel="25109"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SingleColumnValueFilter.java" partName="SingleColumnValueFilter.java" path="/usr/local/hbase-0.92.1/src/main/java/org/apache/hadoop/hbase/filter/SingleColumnValueFilter.java" title="SingleColumnValueFilter.java" tooltip="org/apache/hadoop/hbase/filter/SingleColumnValueFilter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/org/apache/hadoop/hbase/filter/SingleColumnValueFilter.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6817" selectionTopPixel="4348"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SingleColumnValueExcludeFilter.java" partName="SingleColumnValueExcludeFilter.java" path="/usr/local/hbase-0.92.1/src/main/java/org/apache/hadoop/hbase/filter/SingleColumnValueExcludeFilter.java" title="SingleColumnValueExcludeFilter.java" tooltip="org/apache/hadoop/hbase/filter/SingleColumnValueExcludeFilter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/org/apache/hadoop/hbase/filter/SingleColumnValueExcludeFilter.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4" selectionTopPixel="608"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.completionField" categoryGroup="none" markerContentGenerator="org.eclipse.ui.ide.tasksGenerator" partName="Tasks">
+<columnWidths org.eclipse.ui.ide.completionField="40" org.eclipse.ui.ide.descriptionField="350" org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="145" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.priorityField="35" org.eclipse.ui.ide.resourceField="105"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.completionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.priorityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.descriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.ui.resourcePerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.team.cvs.ui.cvsPerspective"/>
+<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<perspective_action id="org.eclipse.wst.xml.ui.perspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@123a26c9" ratio="0.75" ratioLeft="1194" ratioRight="398" relationship="2" relative="topLeft">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25940594" ratioLeft="262" ratioRight="748" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.6599064" ratioLeft="423" ratioRight="218" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.TaskList" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.team.ui.GenericHistoryView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="bottomLeft" ratio="0.49921995" ratioLeft="320" ratioRight="321" relationship="4" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/org/apache/hadoop/hbase/filter/ValueFilter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/org/apache/hadoop/hbase/filter/WhileMatchFilter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/org/apache/hadoop/hbase/filter/TimestampsFilter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/org/apache/hadoop/hbase/filter/SubstringComparator.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/org/apache/hadoop/hbase/filter/RowFilter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/org/apache/hadoop/hbase/filter/RandomRowFilter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/org/apache/hadoop/hbase/filter/QualifierFilter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/org/apache/hadoop/hbase/filter/PrefixFilter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/org/apache/hadoop/hbase/util/Bytes.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/org/apache/hadoop/hbase/client/HTable.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/org/apache/hadoop/hbase/filter/SingleColumnValueFilter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/org/apache/hadoop/hbase/filter/SingleColumnValueExcludeFilter.java"/>
+</editors>
+<item historyLabel="ValueFilter.java" index="0">
+<position info="not_deleted" x="1724" y="0"/>
+</item>
+<item historyLabel="WhileMatchFilter.java" index="1">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="TimestampsFilter.java" index="2">
+<position info="not_deleted" x="4" y="0"/>
+</item>
+<item historyLabel="SubstringComparator.java" index="3">
+<position info="not_deleted" x="4" y="0"/>
+</item>
+<item historyLabel="RowFilter.java" index="4">
+<position info="not_deleted" x="4" y="0"/>
+</item>
+<item historyLabel="RandomRowFilter.java" index="5">
+<position info="not_deleted" x="4" y="0"/>
+</item>
+<item historyLabel="QualifierFilter.java" index="6">
+<position info="not_deleted" x="4" y="0"/>
+</item>
+<item historyLabel="PrefixFilter.java" index="7">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="ValueFilter.java" index="0">
+<position info="not_deleted" x="2348" y="0"/>
+</item>
+<item historyLabel="Bytes.java" index="8">
+<position info="not_deleted" x="4" y="0"/>
+</item>
+<item historyLabel="ValueFilter.java" index="0">
+<position info="not_deleted" x="2459" y="0"/>
+</item>
+<item historyLabel="HTable.java" index="9">
+<position info="not_deleted" x="4" y="0"/>
+</item>
+<item historyLabel="HTable.java" index="9">
+<position info="not_deleted" x="35771" y="0"/>
+</item>
+<item historyLabel="ValueFilter.java" index="0">
+<position info="not_deleted" x="2511" y="0"/>
+</item>
+<item historyLabel="PrefixFilter.java" index="7">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="ValueFilter.java" index="0">
+<position info="not_deleted" x="2511" y="0"/>
+</item>
+<item historyLabel="HTable.java" index="9">
+<position info="not_deleted" x="53816" y="0"/>
+</item>
+<item historyLabel="ValueFilter.java" index="0">
+<position info="not_deleted" x="2848" y="0"/>
+</item>
+<item historyLabel="SingleColumnValueFilter.java" index="10">
+<position info="not_deleted" x="6057" y="0"/>
+</item>
+<item historyLabel="ValueFilter.java" index="0">
+<position info="not_deleted" x="2458" y="47"/>
+</item>
+<item historyLabel="SingleColumnValueFilter.java" index="10">
+<position info="not_deleted" x="6817" y="0"/>
+</item>
+<item historyLabel="SingleColumnValueExcludeFilter.java" index="11">
+<position info="not_deleted" x="4" y="0"/>
+</item>
+<item historyLabel="SingleColumnValueFilter.java" index="10">
+<position info="not_deleted" x="6817" y="0"/>
+</item>
+<item active="true" historyLabel="ValueFilter.java" index="0">
+<position info="not_deleted" x="2458" y="47"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SingleColumnValueExcludeFilter.java" tooltip="org/apache/hadoop/hbase/filter/SingleColumnValueExcludeFilter.java">
+<persistable path="/org/apache/hadoop/hbase/filter/SingleColumnValueExcludeFilter.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SingleColumnValueFilter.java" tooltip="org/apache/hadoop/hbase/filter/SingleColumnValueFilter.java">
+<persistable path="/org/apache/hadoop/hbase/filter/SingleColumnValueFilter.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HTable.java" tooltip="org/apache/hadoop/hbase/client/HTable.java">
+<persistable path="/org/apache/hadoop/hbase/client/HTable.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Bytes.java" tooltip="org/apache/hadoop/hbase/util/Bytes.java">
+<persistable path="/org/apache/hadoop/hbase/util/Bytes.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrefixFilter.java" tooltip="org/apache/hadoop/hbase/filter/PrefixFilter.java">
+<persistable path="/org/apache/hadoop/hbase/filter/PrefixFilter.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="QualifierFilter.java" tooltip="org/apache/hadoop/hbase/filter/QualifierFilter.java">
+<persistable path="/org/apache/hadoop/hbase/filter/QualifierFilter.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RandomRowFilter.java" tooltip="org/apache/hadoop/hbase/filter/RandomRowFilter.java">
+<persistable path="/org/apache/hadoop/hbase/filter/RandomRowFilter.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RowFilter.java" tooltip="org/apache/hadoop/hbase/filter/RowFilter.java">
+<persistable path="/org/apache/hadoop/hbase/filter/RowFilter.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SubstringComparator.java" tooltip="org/apache/hadoop/hbase/filter/SubstringComparator.java">
+<persistable path="/org/apache/hadoop/hbase/filter/SubstringComparator.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TimestampsFilter.java" tooltip="org/apache/hadoop/hbase/filter/TimestampsFilter.java">
+<persistable path="/org/apache/hadoop/hbase/filter/TimestampsFilter.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WhileMatchFilter.java" tooltip="org/apache/hadoop/hbase/filter/WhileMatchFilter.java">
+<persistable path="/org/apache/hadoop/hbase/filter/WhileMatchFilter.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ValueFilter.java" tooltip="org/apache/hadoop/hbase/filter/ValueFilter.java">
+<persistable path="/org/apache/hadoop/hbase/filter/ValueFilter.java"/>
+</file>
+</mruList>
+</workbench>
