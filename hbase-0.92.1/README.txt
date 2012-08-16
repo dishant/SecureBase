@@ -25,6 +25,7 @@ hbase> create 'myTable' , 'columnFamily1' , 'columnFamily2'
 hbase> put 'myTable' , 'row1' , 'columnFamily1:qual1' , 'myValue: SecureBase Tutorial'
 hbase> scan 'myTable'
 hbase> securecreate 'myEncryptedTable' , 'columnFamily1'
+hbase> list
 
 
 
