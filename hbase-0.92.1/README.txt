@@ -8,7 +8,7 @@ Required OS: Ubuntu Linux
 
 2. Specify JAVA_HOME (e.g. export JAVA_HOME=/usr/lib/jvm/java-6-openjdk). JAVA 1.6 or higher is needed
 
-3. The directory from which shell is started should have reading and writing permission for the user. Otherwise you will notice IOException the shell.
+3. The directory from which shell is started should have reading and writing permission for the user. Otherwise you will notice IOException in the shell.
 
 
 USAGE
