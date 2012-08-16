@@ -6,7 +6,7 @@ Required OS: Ubuntu Linux
 	Remove the entry 127.0.1.1 since HBase expect the loopback id to be 127.0.0.1
 	The file should contain "127.0.0.1 localhost your-machine-name"
 
-2. Specify JAVA_HOME in .bashrc or .profile, JAVA 1.6 or higher is needed
+2. Specify JAVA_HOME (e.g. export JAVA_HOME=/usr/lib/jvm/java-6-openjdk). JAVA 1.6 or higher is needed
 
 3. The directory from which shell is started should have reading and writing permission for the user. Otherwise you will notice IOException the shell.
 
