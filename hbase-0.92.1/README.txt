@@ -18,7 +18,13 @@ To start hbase server, go to bin folder and type './start-hbase.sh'
 start shell by typing './hbase shell'
 Type 'help' to get general commands.
 
-To create secureTables use command "securecreate" instead of create. You can go to hbase.root.dir to see the tables you created. You can check that secureTables are storing values in encrypted format. KeyManager
+To create secureTables use command "securecreate" instead of "create". You can go to hbase.root.dir to see the tables you created. You can check that secureTables are storing values in encrypted format.
+
+A sample command set would be:
+hbase> create 'myTable' , 'columnFamily1' , 'columnFamily2'
+hbase> put 'myTable' , 'row1' , 'columnFamily1:qual1' , 'myValue: SecureBase Tutorial'
+hbase> scan 'myTable'
+hbase> securecreate 'myEncryptedTable' , 'columnFamily1'
 
 
 
