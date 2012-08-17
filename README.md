@@ -9,3 +9,5 @@ folder.
 
 It comes with an interactive ruby based shell like that of HBase. To create secureTables you need to use 'securecreate' in
 place of create.
+
+Please refer to Wiki Page for SecureBase Design Information.
